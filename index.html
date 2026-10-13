@@ -524,7 +524,9 @@ function servicesContent(data){
   const services = data.services || [];
   if(!services.length) return emptyState('هنوز خدمتی ثبت نشده.');
   return `
-    // <p class="page-sub">راهکارهای دیجیتال برای رشد کسب‌وکار شما</p>
+
+
+      
     <div class="svc-grid">
       ${services.map(s=>`
         <div class="svc-card">
