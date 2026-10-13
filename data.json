@@ -62,11 +62,11 @@
     "mapLink": "https://nshn.ir/38_bvk8_pxR8bI"
   },
   "theme": {
-    "accentPreset": "blue",
+    "accentPreset": "orange",
     "font": "Vazirmatn",
     "layout": "modern",
     "bgMode": "solid",
-    "cardColor": "#0d1117",
+    "cardColor": "#0c1727",
     "bgColor1": "#0d1117",
     "bgColor2": "#3b82f6",
     "textMode": "auto",
